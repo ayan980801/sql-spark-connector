@@ -217,7 +217,7 @@
                 <dependency>
                     <groupId>com.microsoft.sqlserver</groupId>
                     <artifactId>mssql-jdbc</artifactId>
-                    <version>8.4.1.jre8</version>
+                    <version>10.2.4.jre8</version>
                 </dependency>
             </dependencies>
         </profile>
@@ -241,7 +241,7 @@
                 <dependency>
                     <groupId>com.microsoft.sqlserver</groupId>
                     <artifactId>mssql-jdbc</artifactId>
-                    <version>12.8.1.jre11</version>
+                    <version>10.2.4.jre8</version>
                 </dependency>
             </dependencies>
         </profile>
